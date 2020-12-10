@@ -3,7 +3,7 @@ layout: card
 title: Page quality audit
 permalink: /awareness/page-quality-audit/
 description: An automated assessment report of factors that determine web page quality, including performance, accessibility, search engine optimization, and coding best practices.
-category: Staging
+category: Awareness
 what: An automated assessment report of factors that determine web page quality, including performance, accessibility, search engine optimization, and coding best practices.
 why: To quickly identify issues that impact the user experience of a website so improvements can be prioritized and addressed before doing more in-depth research. This is useful to run at the beginning of a project to establish some baseline quality metrics and as part of quality assurance testing for new work being developed.
 timeRequired: 1-2 hours
